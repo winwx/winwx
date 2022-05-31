@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](github.com/HongSJae/todolist)
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)](github.com/HongSJae/todolist)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/HongSJae/todolist)
 <br><br>
 ## 🔨tool🔨
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
