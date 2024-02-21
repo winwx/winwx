@@ -1,6 +1,6 @@
 ### Hi there 💩 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gtw030488)](https://velog.io/@gtw030488/고2가-교내-취업-관리-서비스를-만들기까지JOBIS-회고)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gtw030488&slug=고2가-교내-취업-관리-서비스를-만들기까지JOBIS-회고)](https://velog.io/@gtw030488/고2가-교내-취업-관리-서비스를-만들기까지JOBIS-회고)
 
 <a href="https://buttery-jellyfish-470.notion.site/52abb3d1112c40c394f0254d4f0986c7?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white">
 <a href="https://www.instagram.com/hsj._.06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
