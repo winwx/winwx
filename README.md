@@ -10,10 +10,9 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/HongSJae?pet-id=624506915776098507"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/HongSJae"
+  width="600"
+  height="300"
+/>
 </a>
-  
