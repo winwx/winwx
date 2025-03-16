@@ -6,11 +6,11 @@
 ## AppStore
 <table>
   <tr>
-    <td>
+<!--     <td>
       <a href="https://apps.apple.com/kr/app/ballhub/id6520390860" target="_blank">
         <img class="BallHub" src="https://github.com/user-attachments/assets/e06a25fd-fd2f-4b3e-860c-364937d8769a" height=100 width=100/>
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="https://apps.apple.com/kr/app/마음결-미니-maumgyeol-mini/id6477999179" target="_blank">
         <img class="Maumgyeol-Mini" src="https://github.com/user-attachments/assets/4accd79a-189a-46f1-9c0b-f68d4143153d" height=100 width=100/>
@@ -27,10 +27,10 @@
       </a>
     </td>
   </tr>
-   <tr>
+<!--    <tr>
     <th>
       <a href="https://apps.apple.com/kr/app/ballhub/id6520390860" target="_blank">볼허브</a>
-    </th>
+    </th> -->
     <th>
       <a href="https://apps.apple.com/kr/app/마음결-미니-maumgyeol-mini/id6477999179" target="_blank">마음결 미니</a>
     </th>
