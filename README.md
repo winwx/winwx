@@ -43,6 +43,11 @@
   </tr>
 </table>
 
+## Open Source
+<a href="https://github.com/HongSJae/DynamicTextEditor">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hongsjae&repo=DynamicTextEditor" />
+</a>
+
 ## Me
 <a href="https://hongsjae.github.io/portfolio.github.io/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white">
 
