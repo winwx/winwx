@@ -44,12 +44,12 @@
 </table>
 
 ## Open Source
-<a href="https://github.com/HongSJae/DynamicTextEditor">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hongsjae&repo=DynamicTextEditor" />
+<a href="https://github.com/winwx/DynamicTextEditor">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=winwx&repo=DynamicTextEditor" />
 </a>
 
 ## Me
-<a href="https://hongsjae.github.io/portfolio.github.io/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white">
+<a href="https://winwx.github.io/portfolio.github.io/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white">
 
 <a href="https://www.instagram.com/hsj._.06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
 
@@ -60,7 +60,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/HongSJae"
+  src="https://render.gitanimals.org/farms/winwx"
   width="600"
   height="300"
 />
