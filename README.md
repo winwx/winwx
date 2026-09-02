@@ -49,7 +49,7 @@
 </a>
 
 ## Me
-<a href="[https://winwx.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=chrome&logoColor=white">
+<a href="https://winwx.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=chrome&logoColor=white">
 
 <a href="https://www.instagram.com/hsj._.06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
 
